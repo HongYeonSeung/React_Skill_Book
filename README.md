@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+아래의 내용 전체를 복사해서 리드미 파일(`README.md`)에 붙여넣으시면 됩니다:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```
+# React Learning Repository
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-Learning-blue)
 
-In the project directory, you can run:
+## 📚 프로젝트 소개
 
-### `npm start`
+이 레포지토리는 **React** 책을 학습하면서 작성한 코드와 학습 내용을 정리하기 위해 만들어졌습니다. 각 장별로 학습한 내용과 실습 예제들을 포함하고 있으며, 학습 과정에서의 중요 포인트와 깨달음을 기록합니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 목표
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React의 기초 개념부터 고급 기능까지 학습
+- 실습을 통해 React 컴포넌트 및 상태 관리 이해
+- React와 관련된 다양한 라이브러리 사용법 익히기
+- 학습한 내용을 정리하여 나만의 React 학습 자료로 활용
 
-### `npm test`
+## 🛠 사용 기술
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React**: 최신 버전
+- **JavaScript (ES6+)**
+- **HTML/CSS**
+- 추가적인 라이브러리들은 학습 진행 상황에 따라 추가될 예정
 
-### `npm run build`
+## 📂 프로젝트 구조
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+.
+├── chapter1/
+│   ├── README.md # 1장 학습 내용 요약
+│   └── example1.js # 실습 코드
+├── chapter2/
+│   ├── README.md # 2장 학습 내용 요약
+│   └── example2.js # 실습 코드
+└── ...
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 각 장(chapter)마다 별도의 디렉토리가 있으며, 해당 장에서 학습한 내용과 예제 코드가 포함됩니다.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔍 학습 진행 상황
 
-### `npm run eject`
+- [x] Chapter 1: React 기초 개념
+- [x] Chapter 2: JSX와 컴포넌트
+- [ ] Chapter 3: Props와 State
+- [ ] Chapter 4: 이벤트 처리
+- [ ] ...
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📝 사용 방법
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. 이 레포지토리를 클론합니다.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/your-username/react-learning.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. 각 장의 디렉토리로 이동하여 README.md 파일을 참고하여 학습을 시작합니다.
 
-## Learn More
+3. 새로운 챕터를 학습할 때마다 디렉토리를 추가하고, 학습한 내용을 기록합니다.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 기여
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+이 레포지토리는 개인 학습을 목적으로 하고 있지만, 제안 사항이나 개선할 점이 있다면 자유롭게 이슈나 PR을 제출해 주세요!
 
-### Code Splitting
+## 📄 라이센스
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참고하세요.
+```
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+위 내용 전체를 복사해서 사용하시면 됩니다.
