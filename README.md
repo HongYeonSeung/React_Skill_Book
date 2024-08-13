@@ -16,7 +16,7 @@
 
 ## 🛠 사용 기술
 
-- **React**: 최신 버전
+- **React**: 18.3.1
 - **JavaScript (ES6+)**
 - **HTML/CSS**
 - 추가적인 라이브러리들은 학습 진행 상황에 따라 추가될 예정
@@ -24,14 +24,16 @@
 ## 📂 프로젝트 구조
 
 ```bash
-.
-├── chapter1/
-│   ├── README.md # 1장 학습 내용 요약
-│   └── example1.js # 실습 코드
-├── chapter2/
-│   ├── README.md # 2장 학습 내용 요약
-│   └── example2.js # 실습 코드
-└── ...
+src/
+└── chapter/
+    ├── chapter1/
+    │   ├── README.md # 1장 학습 내용 요약
+    │   └── example1.js # 실습 코드
+    ├── chapter2/
+    │   ├── README.md # 2장 학습 내용 요약
+    │   └── example2.js # 실습 코드
+    └── ...
+```
 
 
 - 각 장(chapter)마다 별도의 디렉토리가 있으며, 해당 장에서 학습한 내용과 예제 코드가 포함됩니다.
@@ -45,7 +47,7 @@
 1. 이 레포지토리를 클론합니다.
 
 ```bash
-git clone https://github.com/your-username/react-learning.git
+git clone https://github.com/HongYeonSeung/React_Skill_Book.git
 ```
 
 2. 각 장의 디렉토리로 이동하여 README.md 파일을 참고하여 학습을 시작합니다.
