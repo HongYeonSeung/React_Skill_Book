@@ -38,11 +38,7 @@
 
 ## 🔍 학습 진행 상황
 
-- [x] Chapter 1: React 기초 개념
-- [x] Chapter 2: JSX와 컴포넌트
-- [ ] Chapter 3: Props와 State
-- [ ] Chapter 4: 이벤트 처리
-- [ ] ...
+- [x] Chapter 1: React 시작
 
 ## 📝 사용 방법
 
