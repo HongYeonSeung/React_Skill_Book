@@ -1,6 +1,4 @@
-아래의 내용 전체를 복사해서 리드미 파일(`README.md`)에 붙여넣으시면 됩니다:
 
-```
 # React Learning Repository
 
 ![React](https://img.shields.io/badge/React-Learning-blue)
@@ -34,7 +32,7 @@
 │   ├── README.md # 2장 학습 내용 요약
 │   └── example2.js # 실습 코드
 └── ...
-```
+
 
 - 각 장(chapter)마다 별도의 디렉토리가 있으며, 해당 장에서 학습한 내용과 예제 코드가 포함됩니다.
 
