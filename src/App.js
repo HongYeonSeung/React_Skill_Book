@@ -1,11 +1,14 @@
-import './App.css';
+import "./App.css";
+import Banner from "./component/Banner";
+import Chapter1 from "./chapter/Chapter1/Chapter1";
+import { Route, Routes } from "react-router-dom";
+import List from "./component/List";
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-      <h1 className="text-5xl font-bold text-blue-600">
-        Hello, Tailwind CSS in React!
-      </h1>
+    <div>
+      <Banner></Banner>
+      <Chapter1></Chapter1>
     </div>
   );
 }
